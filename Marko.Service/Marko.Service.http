@@ -1,0 +1,6 @@
+@Marko.Service_HostAddress = http://localhost:5200
+
+GET {{Marko.Service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
